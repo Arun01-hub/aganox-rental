@@ -1,0 +1,11 @@
+---
+description: Aganox Rental repo context
+alwaysApply: true
+---
+
+# Rental
+
+- API default `https://localhost:7241`; SPA `http://localhost:4200`.
+- Auth settings under `Auth:` in API `appsettings`; bearer for owner endpoints.
+- Playwright tests require Identity + API + web URLs in `.env` (from `.env.example`).
+- Cross-repo path locally: sibling `Aganox-Identity` under `C:\Aganox\`.

@@ -2,6 +2,8 @@
 
 Property rental product — ASP.NET Core WebAPI + Angular SPA, authenticated via **Aganox Identity Server**.
 
+AI-assisted development: see [AGENTS.md](AGENTS.md) and [Aganox AI standards](https://github.com/Arun01-hub/aganox-standards/blob/main/docs/AI_DRIVEN_DEVELOPMENT.md).
+
 ## Prerequisites
 
 - .NET 10 SDK
